@@ -1,0 +1,18 @@
+aca vamos a practicar todos los comandos que se va utilizando en el curso de GIT.. para tener como ejemplo
+
+git remote add url del repo.. { esto es para navegar entre repos}
+
+git log { para ver los commit realizados}
+
+git log --oneline {para ver los commits en una solo line }
+
+git checkout ID {esto es para navegar entre commits}
+
+git checkout master { esto es para volver al head (la ultima vercion hecha)}
+
+git show { muestra los cambios fisicos que realizamos entre las distintas verciones}
+
+git reset ID --hard { elimina el commit}
+
+git reset ID --soft { elimina pero conserva los cambios en staging}
+
