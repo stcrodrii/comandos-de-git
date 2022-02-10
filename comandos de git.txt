@@ -1,6 +1,6 @@
 aca vamos a practicar todos los comandos que se va utilizando en el curso de GIT.. para tener como ejemplo
 
-git remote add url del repo.. { esto es para navegar entre repos}
+git remote add origin url del repo.. { esto es para navegar entre repos}
 
 git log { para ver los commit realizados}
 
